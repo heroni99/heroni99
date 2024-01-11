@@ -7,11 +7,11 @@
 
 
 ##### _Habilidades_
-📚 Python, SQL, C++ e C#
+📚 Python, SQL, C++, C# e HTML
 
 
 #### _Educação_
 - Futuro estudante de Ciência da Computação.
   
 #### ✉️ _Contato_
-- E-mail: heronigamer@proton.me.com
+- E-mail: heronigamer@proton.me
