@@ -13,5 +13,5 @@
 #### _Educação_
 - Futuro estudante de Ciência da Computação.
   
-#### ✉️ _Contato_
+#### ✉️ _Contato_adadadada
 - E-mail: heronigamer@proton.me
