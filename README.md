@@ -7,7 +7,7 @@
 
 
 ##### _Habilidades_
-📚 Python, SQL, C++, C# e HTML
+📚 Python, SQL, C, C# e HTML
 
 
 #### _Educação_
