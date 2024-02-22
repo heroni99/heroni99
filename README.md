@@ -14,4 +14,4 @@
 - Futuro estudante de Ciência da Computação.
   
 #### ✉️ _Contato_
-- E-mail: heronigamer@proton.me
+- E-mail: heronigamer@proton.me  || - E-mail: nicokasrx99@gmail.com
